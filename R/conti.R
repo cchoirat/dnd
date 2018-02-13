@@ -5,9 +5,9 @@
 # install.packages("devtools")
 # library(devtools)
 # install_github("susanathey/causalTree")
-library(causalTree)
-library(mvtnorm)
-library(rpart.utils)
+# library(causalTree)
+# library(mvtnorm)
+# library(rpart.utils)
 #library(sensitivitymv)
 
 ###############################################################
